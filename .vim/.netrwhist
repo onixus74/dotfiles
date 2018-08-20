@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/mnt/c/Users/Marwen.CHINOOKTRADING/Desktop/Workspace/repos/PaymentWizard-to-AfexPaymentTransactions-Addin/src'
+let g:netrw_dirhist_2='/c/Users/Marwen.CHINOOKTRADING/Desktop/_xp_workspace/odoo/o_addons/web_responsive'
+let g:netrw_dirhist_3='/c/Users/Marwen.CHINOOKTRADING/Desktop/_xp_workspace/odoo/o_addons/web_responsive/models'
+let g:netrw_dirhist_4='/c/Users/Marwen.CHINOOKTRADING/Desktop/_xp_workspace/odoo'
+let g:netrw_dirhist_5='/c/Users/Marwen.CHINOOKTRADING/AppData/Roaming/Cerebro/plugins'
